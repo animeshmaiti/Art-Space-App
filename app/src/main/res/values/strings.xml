@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="plant">Plant Leaves Nature</string>
+    <string name="artist_plant">Pfefferminza_Viktualia</string>
+    <string name="forest">Forest Witch Enchanted from</string>
+    <string name="artist_forest">betidraws</string>
+    <string name="island">Island Hot Air Balloon</string>
+    <string name="artist_island">Hardae</string>
+    <string name="nature">Nature Art LandScape</string>
+    <string name="artist_nature">wafidinside</string>
+</resources>
